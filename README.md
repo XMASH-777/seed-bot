@@ -22,6 +22,7 @@ pip install -r requirements.txt
 ```
 nano data.txt
 ```
+```
 python bot.py
 ```
 [ວິທີ່](https://youtu.be/tc3kZ2086JM?si=mk12dtBb9HGX7wrx)
